@@ -22,5 +22,5 @@ Aprendendo um pouco mais de Java e Python<br/>
 Sigo Open to Work⏱️
 
 ## Contato
-[![mail]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white))](alexandre_soel@hotmail.com)
+[![mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](alexandre_soel@hotmail.com)
 
