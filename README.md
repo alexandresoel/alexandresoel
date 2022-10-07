@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**alexandresoel/alexandresoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Alexandre Trajano! 😊
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-trajano-125a69132/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandresoel/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alexandresoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandresoel&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+	<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+	<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</div><br/>
+
+Apaixonado por tecnológia, educação e aprendizado!<br/>
+Aprendendo um pouco mais de Java e Python<br/>
+Sigo Open to Work⏱️
+
+## Contato
+[![mail]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white))](alexandre_soel@hotmail.com)
+
