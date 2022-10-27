@@ -21,6 +21,7 @@ Apaixonado por tecnológia, educação e aprendizado!<br/>
 Aprendendo um pouco mais de Java e Python<br/>
 Sigo Open to Work⏱️
 
+
 ## Contato
 - 📧 Email: alexandre_soel@hotmail.com
 
